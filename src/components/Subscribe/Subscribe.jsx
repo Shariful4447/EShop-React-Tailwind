@@ -32,7 +32,7 @@ const Subscribe = () => {
               />
             </div>
             <div data-aos="fade-up">
-            <button className="btn btn-primary border-2 rounded-full ml-2 p-3 bg-yellow-600 hover:bg-sky-700 ">subscribe</button>
+            <button className="btn btn-primary border-2 rounded-full ml-2 p-3 bg-primary hover:bg-white hover:text-black ">subscribe</button>
             </div>
           </div>
           {/* <input
